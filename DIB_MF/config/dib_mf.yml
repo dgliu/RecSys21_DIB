@@ -1,0 +1,14 @@
+parameters:
+    models: DIB-MF
+    similarity: Cosine
+    corruption: [0]
+    alpha: [7.94715722625444e-06]
+    rank: [145]
+    gamma: [1.0]
+    topK: [5, 10, 15, 20, 50]
+    iter: 500
+    batch_size: [16384]
+    lambda: [0.00001]
+    clip: [1.0]
+    learning_rate: [0.005]
+    metric: [R-Precision, NDCG, Clicks, Precision, Recall, MAP, NLL, AUC]

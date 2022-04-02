@@ -1,0 +1,61 @@
+yahooR3:
+  AT-MF:
+    batch_size: 2048
+    clip: 0.002625268634995246
+    lambda: 0.0001
+    learning_rate: 0.005
+    rank: 195.0
+  CVIB-MF:
+    alpha: 0.04017631104369287
+    batch_size: 256
+    gamma: 0.17327214733543173
+    lambda: 0.0001
+    learning_rate: 0.001
+    rank: 190.0
+  DIB-MF:
+    alpha:
+    batch_size: 8192
+    gamma: 0.021928183171644286
+    lambda: 1.0e-05
+    learning_rate: 0.005
+    rank: 75.0
+  DIBB-MF:
+    alpha: 0.21488651588543503
+    batch_size: 4096
+    lambda: 1.0e-05
+    learning_rate: 0.01
+    rank: 90.0
+  DIBC-MF:
+    alpha: 0.10279245221140722
+    batch_size: 8192
+    gamma: 0.06020929759295666
+    lambda: 1.0e-05
+    learning_rate: 0.01
+    rank: 90.0
+  DIBD-MF:
+    alpha: 0.1104388620662309
+    batch_size: 16384
+    gamma: 0.017876647631864428
+    learning_rate: 0.01
+    rank: 75.0
+  IPS-MF:
+    batch_size: 128
+    lambda: 0.001
+    learning_rate: 0.001
+    rank: 65.0
+  MF:
+    batch_size: 128
+    lambda: 0.001
+    learning_rate: 0.001
+    rank: 80.0
+  Rel-MF:
+    batch_size: 2048
+    clip: 0.05545317645700249
+    lambda: 0.1
+    learning_rate: 0.005
+    rank: 155.0
+  SNIPS-MF:
+    batch_size: 1024
+    lambda: 0.0001
+    learning_rate: 0.001
+    rank: 120.0

@@ -1,0 +1,14 @@
+parameters:
+    models: DIB-NCF
+    similarity: Cosine
+    corruption: [0]
+    alpha: [1.0]
+    rank: [145]
+    gamma: [1.0]
+    topK: [5, 10, 15, 20, 50]
+    iter: 1000
+    batch_size: [1024]
+    lambda: [0.0001]
+    clip: [1.0]
+    learning_rate: [0.001]
+    metric: [R-Precision, NDCG, Clicks, Precision, Recall, MAP, NLL, AUC]
