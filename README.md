@@ -9,6 +9,6 @@ Dugang Liu, Pengxiang Cheng, Hong Zhu, Zhenhua Dong, Xiuqiang He, Weike Pan and 
 ---
 
 Update：
-Since we are working on an extended version of this work and a closely related new work, we apologize for the delay in the release of the code and will speed it up.
+An extended version has just been submitted to TORS for review, and the code has been released. We apologize again for the previous delay.
 
 If you have any issues or ideas, feel free to contact us (<dugang.ldg@gmail.com>).
