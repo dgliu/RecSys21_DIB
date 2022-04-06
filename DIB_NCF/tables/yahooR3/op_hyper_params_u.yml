@@ -19,33 +19,6 @@ yahooR3:
     lambda: 0.0001
     learning_rate: 0.005
     rank: 40.0
-  DIB1-NCF:
-    alpha: 0.15391350073303403
-    batch_size: 1024
-    gamma: 0.004028640003847981
-    lambda: 0.001
-    learning_rate: 0.0001
-    rank: 180.0
-  DIB1B-NCF:
-    alpha: 0.0020096870071889842
-    batch_size: 128
-    lambda: 0.0001
-    learning_rate: 0.01
-    rank: 60.0
-  DIB1C-NCF:
-    alpha: 0.11254783983307902
-    batch_size: 1024
-    gamma: 0.0024733811786130377
-    lambda: 0.001
-    learning_rate: 0.005
-    rank: 50.0
-  DIB1D-NCF:
-    alpha: 0.1944751451361585
-    batch_size: 128
-    gamma: 0.0014813714836021425
-    lambda: 0.01
-    learning_rate: 0.001
-    rank: 30.0
   DIBB-NCF:
     alpha: 0.6398711986976169
     batch_size: 256
