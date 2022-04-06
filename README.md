@@ -1,6 +1,6 @@
 # RecSys21_DIB
 ---
-Experiments codes for RecSys '21 paper "Mitigating Confounding Bias in Recommendation via Information Bottleneck"
+Experiments codes for the paper:
 
 Dugang Liu, Pengxiang Cheng, Hong Zhu, Zhenhua Dong, Xiuqiang He, Weike Pan and Zhong Ming. Mitigating Confounding Bias in Recommendation via Information Bottleneck. To appear in RecSys '21.
 
